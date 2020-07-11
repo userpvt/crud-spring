@@ -1,0 +1,9 @@
+com\valery\application\config\HibernateConfig.class
+com\valery\application\config\AppInitializer.class
+com\valery\application\service\FilmService.class
+com\valery\application\service\FilmServiceImpl.class
+com\valery\application\controller\FilmController.class
+com\valery\application\model\Film.class
+com\valery\application\config\WebConfig.class
+com\valery\application\dao\FilmDAO.class
+com\valery\application\dao\FilmDAOImpl.class
